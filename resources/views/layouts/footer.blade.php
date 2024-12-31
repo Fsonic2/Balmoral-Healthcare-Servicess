@@ -53,7 +53,7 @@ Balmoral Healthcare Services was founded with one sole purpose: to allow you to 
 </div>
 
 <div class="container copyright text-center mt-4">
-  <p>© <span>Copyright</span> <strong class="px-1 sitename">Balmoral Healthcare Services</strong> <span>All Rights Reserved</span></p>
+  <p>© <span>Copyright</span>  {{ date('Y') }}  <strong class="px-1 sitename">Balmoral Healthcare Services</strong> <span>All Rights Reserved</span></p>
   <div class="credits">
   
     Designed by <a href="https://venatechltd.com">Vena Tech Limited</a> Distributed by <a href="https://venatechltd.com">Vena Tech Limited

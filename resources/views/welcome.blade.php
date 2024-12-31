@@ -17,7 +17,7 @@
 <!-- Hero Section -->
 <section id="hero" class="hero section">
 
-  <img src="../img/healthcare-bg.jpg" alt="" data-aos="fade-in" class="">
+  <img src="public/img/healthcare-bg.jpg" alt="" data-aos="fade-in" class="">
 
   <div class="container">
     <div class="row" data-aos="zoom-out">
@@ -78,7 +78,7 @@
 
   <div class="row gy-4">
     <div class="col-lg-6 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
-      <img src="../img/erlizatte.jpg" class="img-fluid" alt="">
+      <img src="public/img/erlizatte.jpg" class="img-fluid" alt="">
     
     </div>
     <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="200">
@@ -164,10 +164,10 @@ Do our best to make every day that little bit better.</li>
 
   <div class="row gy-4">
 
-    <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+    <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
       <div class="team-member">
         <div class="member-img">
-          <img src="../team/team-1.jpg" class="img-fluid" alt="">
+          <img src="public/team/team-1.jpg" class="img-fluid" alt="">
           <div class="social">
           <a href=""><i class="fa fa-twitter"></i></a>
                   <a href=""><i class="fa fa-facebook"></i></a>
@@ -182,10 +182,10 @@ Do our best to make every day that little bit better.</li>
       </div>
     </div><!-- End Team Member -->
 
-    <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+    <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
       <div class="team-member">
         <div class="member-img">
-          <img src="../team/team-2.jpg" class="img-fluid" alt="">
+          <img src="public/team/team-2.jpg" class="img-fluid" alt="">
           <div class="social">
           <a href=""><i class="fa fa-twitter"></i></a>
                   <a href=""><i class="fa fa-facebook"></i></a>
@@ -200,28 +200,12 @@ Do our best to make every day that little bit better.</li>
       </div>
     </div><!-- End Team Member -->
 
-    <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
-      <div class="team-member">
-        <div class="member-img">
-          <img src="../team/team-3.jpg" class="img-fluid" alt="">
-          <div class="social">
-          <a href=""><i class="fa fa-twitter"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                  <a href=""><i class="fa fa-instagram"></i></a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
-          </div>
-        </div>
-        <div class="member-info">
-          <h4>William Anderson</h4>
-          <span>CTO</span>
-        </div>
-      </div>
-    </div><!-- End Team Member -->
+   
 
-    <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
+    <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
       <div class="team-member">
         <div class="member-img">
-          <img src="../team/team-4.jpg" class="img-fluid" alt="">
+          <img src="public/team/team-4.jpg" class="img-fluid" alt="">
           <div class="social">
           <a href=""><i class="fa fa-twitter"></i></a>
                   <a href=""><i class="fa fa-facebook"></i></a>

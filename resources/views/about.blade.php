@@ -17,7 +17,7 @@
 <!-- Hero Section -->
 <section id="hero" class="hero section">
 
-  <img src="../img/erlianddaughter.jpg" alt="" data-aos="fade-in" class="">
+  <img src="public/img/erlianddaughter.jpg" alt="" data-aos="fade-in" class="">
 
   <div class="container">
     <div class="row" data-aos="zoom-out">
@@ -131,7 +131,7 @@ Use our online care options tool to help you decide what kind of care you need.<
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="team-member">
               <div class="member-img">
-                <img src="../homecare/in-care-2 (3).webp" class="img-fluid" alt="">
+                <img src="public/homecare/in-care-2 (3).webp" class="img-fluid" alt="">
                 <div class="social">
                 </div>
               </div>
@@ -150,7 +150,7 @@ Use our online care options tool to help you decide what kind of care you need.<
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="team-member">
               <div class="member-img">
-                <img src="../homecare/in-care-2 (2).webp" class="img-fluid" alt="">
+                <img src="public/homecare/in-care-2 (2).webp" class="img-fluid" alt="">
                 <div class="social">
                 </div>
               </div>
@@ -169,7 +169,7 @@ Use our online care options tool to help you decide what kind of care you need.<
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="../homecare/in-care-2 (1).webp" class="img-fluid" alt="">
+                <img src="public/homecare/in-care-2 (1).webp" class="img-fluid" alt="">
                 <div class="social">
                 </div>
               </div>
@@ -188,7 +188,7 @@ Use our online care options tool to help you decide what kind of care you need.<
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
             <div class="team-member">
               <div class="member-img">
-                <img src="../homecare/in-care-2 (4).webp" class="img-fluid" alt="">
+                <img src="public/homecare/in-care-2 (4).webp" class="img-fluid" alt="">
                 <div class="social">
                 </div>
               </div>
